@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Funções do 2º Grau e Otimização",
+    "discipline": "Matemática",
+    "area": "Exatas",
+    "level": "ENEM",
+    "grade": "Ensino Médio",
+    "topic": "Álgebra",
+    "explanation": "Estudo do vértice da parábola para encontrar valores máximos e mínimos aplicados a problemas cotidianos de lucro e área.",
+    "example": "Exemplo: Calcular o preço de venda que maximiza o lucro de uma empresa."
+  },
+  {
+    "id": "2",
+    "title": "Cinemática Vetorial e Lançamento Oblíquo",
+    "discipline": "Física",
+    "area": "Exatas",
+    "level": "MILITARES",
+    "grade": "Ensino Médio",
+    "topic": "Mecânica",
+    "explanation": "Análise decomposta dos movimentos horizontal e vertical sob a ação da gravidade, exigida em exames como EsPCEx, AFA e Escola Naval.",
+    "example": "Exemplo: Determinar o alcance máximo de um projétil disparado com determinada velocidade inicial."
+  },
+  {
+    "id": "3",
+    "title": "Álgebra Linear: Matrizes e Determinantes",
+    "discipline": "Matemática",
+    "area": "Exatas",
+    "level": "UNIVERSITÁRIOS",
+    "grade": "Ensino Superior",
+    "topic": "Matemática Superior",
+    "explanation": "Estudo de sistemas de equações lineares de grande porte utilizando eliminação de Gauss e matrizes inversas.",
+    "example": "Exemplo: Resolução de sistemas lineares complexos aplicados à engenharia e computação."
+  },
+  {
+    "id": "4",
+    "title": "Ecologia: Ciclos Biogeoquímicos e Desequilíbrios",
+    "discipline": "Biologia",
+    "area": "Natureza",
+    "level": "ENEM",
+    "grade": "Ensino Médio",
+    "topic": "Ecologia",
+    "explanation": "Como os elementos químicos circulam entre os organismos vivos e o meio ambiente, com foco em impactos ambientais como a eutrofização.",
+    "example": "Exemplo: O impacto do lançamento de esgoto não tratado nos recursos hídricos."
+  },
+  {
+    "id": "5",
+    "title": "Termodinâmica: Ciclos de Carnot e Máquinas Térmicas",
+    "discipline": "Física",
+    "area": "Natureza",
+    "level": "MILITARES",
+    "grade": "Ensino Médio",
+    "topic": "Termologia",
+    "explanation": "Estudo das leis da termodinâmica, variação de entropia e rendimento máximo teórico de motores térmicos.",
+    "example": "Exemplo: Cálculo do rendimento de uma máquina térmica operando entre duas fontes de temperaturas distintas."
+  },
+  {
+    "id": "6",
+    "title": "Bioquímica Avançada: Enzimologia e Cinética",
+    "discipline": "Biologia",
+    "area": "Natureza",
+    "level": "UNIVERSITÁRIOS",
+    "grade": "Ensino Superior",
+    "topic": "Biologia Celular",
+    "explanation": "Análise detalhada da velocidade das reações catalisadas por enzimas e fatores que influenciam a atividade enzimática.",
+    "example": "Exemplo: Constantes de Michaelis-Menten na inibição enzimática."
+  },
+  {
+    "id": "7",
+    "title": "A Era Vargas e a Industrialização do Brasil",
+    "discipline": "História",
+    "area": "Humanas",
+    "level": "ENEM",
+    "grade": "Ensino Médio",
+    "topic": "Brasil República",
+    "explanation": "Transformações políticas, sociais e econômicas ocorridas entre 1930 e 1945, com ênfase na legislação trabalhista e urbanização.",
+    "example": "Exemplo: A criação da CLT e a consolidação dos direitos dos trabalhadores urbanos."
+  },
+  {
+    "id": "8",
+    "title": "Geopolítica da Guerra Fria e Conflitos Regionais",
+    "discipline": "Geografia",
+    "area": "Humanas",
+    "level": "MILITARES",
+    "grade": "Ensino Médio",
+    "topic": "Geopolítica Mundial",
+    "explanation": "A bipolaridade mundial, corrida armamentista, zonas de influência e a estratégia militar das superpotências.",
+    "example": "Exemplo: A Crise dos Mísseis de Cuba e o equilíbrio do terror nuclear."
+  },
+  {
+    "id": "9",
+    "title": "Epistemologia e Teoria do Conhecimento",
+    "discipline": "Filosofia",
+    "area": "Humanas",
+    "level": "UNIVERSITÁRIOS",
+    "grade": "Ensino Superior",
+    "topic": "Filosofia Moderna",
+    "explanation": "Estudo crítico sobre a origem, a natureza e os limites do conhecimento humano segundo Kant, Descartes e Hume.",
+    "example": "Exemplo: A crítica da razão pura e a validade dos juízos sintéticos a priori."
+  },
+  {
+    "id": "10",
+    "title": "Intertextualidade e Funções da Linguagem",
+    "discipline": "Português",
+    "area": "Linguagens",
+    "level": "ENEM",
+    "grade": "Ensino Médio",
+    "topic": "Análise Textual",
+    "explanation": "Como os textos se dialogam entre si e de que maneira a intenção comunicativa altera a estrutura da mensagem.",
+    "example": "Exemplo: Identificação da função metalinguística em poemas que falam sobre a própria poesia."
+  },
+  {
+    "id": "11",
+    "title": "Sintaxe Avançada: Orações Subordinadas e Regência",
+    "discipline": "Português",
+    "area": "Linguagens",
+    "level": "MILITARES",
+    "grade": "Ensino Médio",
+    "topic": "Gramática Normativa",
+    "explanation": "Estudo minucioso da regência verbal/nominal e análise sintática complexa cobrada em concursos de oficiais.",
+    "example": "Exemplo: Emprego correto do acento indicativo de crase e regência de verbos transitivos indiretos."
+  },
+  {
+    "id": "12",
+    "title": "Semiótica e Análise do Discurso Contemporâneo",
+    "discipline": "Linguística",
+    "area": "Linguagens",
+    "level": "UNIVERSITÁRIOS",
+    "grade": "Ensino Superior",
+    "topic": "Teoria Literária",
+    "explanation": "Investigação dos sistemas de signos e dos processos de significação na produção textual acadêmica.",
+    "example": "Exemplo: Desconstrução de discursos ideológicos através da análise crítica do texto."
+  }
+]
